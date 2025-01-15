@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap');
 
 body {
    font-weight: 400;
@@ -18,17 +18,17 @@ strong {
 .highlight {
    /*background: rgb(33,18,43) !important;
    border-color: rgb(0,0,0) !important;*/
-   font-family: "Inter", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
+   font-family: "Be Vietnam Pro", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
 }
 
 .highlight code, .highlight code span {
-   font-family: "Inter", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;  
+   font-family: "Be Vietnam Pro", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;  
    letter-spacing: 1.0px !important;
 }
    
 
 body, body div, h1, h2, h3, h4, h5, h6 {
-   font-family: "Inter", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
+   font-family: "Be Vietnam Pro", "Satoshi", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
    letter-spacing: 0.2px !important;
 }
 
